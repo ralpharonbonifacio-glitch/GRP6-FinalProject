@@ -18,6 +18,14 @@ This project analyzes palay and corn production and harvested area across Philip
 
 The original datasets cover 1987 to 2026. For this project, the group will focus the analysis on 2016 to 2026 to maintain a more focused and manageable scope.
 
+### Intended Audience
+
+Philippine agricultural planners, policymakers, researchers, and other stakeholders interested in regional palay and corn production.
+
+### Problem
+
+This project examines changes in palay and corn production and harvested area across Philippine regions from 2016 to 2026. It also examines the relationship between harvested area and production to provide a clearer view of regional agricultural patterns.
+
 ## Analytical Questions
 
 1. How has the production of palay and corn changed across Philippine regions from 2016 to 2026?
